@@ -15,7 +15,6 @@ I´m currently studying Administration of Networked Computer Systems.<br>I´m ab
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pablooiiribarren&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-ontributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=pablooiiribarren&icon=0&color=0)](https://visitcount.itsvg.in)
 
