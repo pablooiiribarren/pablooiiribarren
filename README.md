@@ -1,5 +1,5 @@
 # 💫 About Me:
-I´m currently studying Administration of Networked Computer Systems.<br>I´m about to enter into the field of AI and Cybersecurity.<br>22 y/o Student.
+I´m currently studying Administration of Networked Computer Systems.<br>I´m about to enter into the field of AI and Data Science.<br>22 y/o Student.
 
 
 ## 🌐 Socials:
