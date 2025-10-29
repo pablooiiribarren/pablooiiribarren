@@ -65,7 +65,7 @@ I´m passionate about building solutions that connect **practical AI**, **web de
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pablo-iribarren-muru-93b547269)  
 - ✉️ [Email me](mailto:pabloiribarren2003@gmail.com) 
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pablooiiribarren)
+- 📸 [Instagram](https://instagram.com/pablooiiribarren)
   
 ---
 
