@@ -16,7 +16,7 @@ I´m passionate about building solutions that connect **practical AI**, **web de
   An AI-powered assistant for data analysis in Python. Uses *LangChain, OpenAI API, and pandas* to automate insights and workflows.
 
 - **[ML in Python](https://github.com/pablooiiribarren/ML-in-Python)**
-  (Based on a course in Udemy)  
+  (Based on a Udemy course)  
   A collection of mini *Machine Learning* projects (regression, clustering, NLP).  
   Showcases my progress and hands-on practice with data-driven models.
 
