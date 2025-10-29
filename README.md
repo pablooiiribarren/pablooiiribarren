@@ -29,7 +29,8 @@ I´m passionate about building solutions that connect **practical AI**, **web de
 - (https://github.com/pablooiiribarren/UNIR-Trabajo-1-Sintaxis-Python)**
 - (https://github.com/pablooiiribarren/UNIR-Trabajo-2-Python-Programacion-Orientada-a-Objetos)**
 - (https://github.com/pablooiiribarren/UNIR-Trabajo-3-Analisis-de-datos-con-Numpy-y-Pandas)**
-- (https://github.com/pablooiiribarren/UNIR-Trabajo-4-Visualizacion-de-datos-con-Matplotlib-y-Seaborn)**   
+- (https://github.com/pablooiiribarren/UNIR-Trabajo-4-Visualizacion-de-datos-con-Matplotlib-y-Seaborn)**
+-    
   A set of projects developed during my studies at UNIR, focusing on *AI and data applications*.
 
 ---
