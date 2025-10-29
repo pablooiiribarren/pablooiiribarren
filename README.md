@@ -25,11 +25,11 @@ I´m passionate about building solutions that connect **practical AI**, **web de
   Exercises and deployments using *Docker* and *Docker Compose*.  
   Demonstrates my understanding of containerization and DevOps fundamentals.
 
-- **[UNIR Projects]
-- (https://github.com/pablooiiribarren/UNIR-Trabajo-1-Sintaxis-Python)**
-- (https://github.com/pablooiiribarren/UNIR-Trabajo-2-Python-Programacion-Orientada-a-Objetos)**
-- (https://github.com/pablooiiribarren/UNIR-Trabajo-3-Analisis-de-datos-con-Numpy-y-Pandas)**
-- (https://github.com/pablooiiribarren/UNIR-Trabajo-4-Visualizacion-de-datos-con-Matplotlib-y-Seaborn)**
+- **[UNIR Projects]**
+- **[Sintaxis Python](https://github.com/pablooiiribarren/UNIR-Trabajo-1-Sintaxis-Python)**
+- **[Programación orientada a Objetos](https://github.com/pablooiiribarren/UNIR-Trabajo-2-Python-Programacion-Orientada-a-Objetos)**
+- **[Analisis de datos (Numpy y Pandas)](https://github.com/pablooiiribarren/UNIR-Trabajo-3-Analisis-de-datos-con-Numpy-y-Pandas)**
+- **[Visualización de datos (Matplotlib y Seaborn)](https://github.com/pablooiiribarren/UNIR-Trabajo-4-Visualizacion-de-datos-con-Matplotlib-y-Seaborn)**
 -    
   A set of projects developed during my studies at UNIR, focusing on *AI and data applications*.
 
