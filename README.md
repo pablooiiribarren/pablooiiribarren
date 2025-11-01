@@ -11,6 +11,10 @@ I´m passionate about building solutions that connect **practical AI**, **web de
   A web app for young people to manage their personal finances. Built with *HTML, TailwindCSS, and JavaScript*.  
   Designed to raise awareness about spending, saving, and money habits.
 
+- **[Análisis de Mercado Laboral](https://github.com/pablooiiribarren/data-science-job-market-spain)**
+  Análisis del mercado laboral de Data Science en España, combinando datos reales, visualizaciones interactivas
+  y un modelo predictivo de salarios en un dashboard profesional hecho con Python y Streamlit  
+
 - **[AI Data Agent](https://github.com/pablooiiribarren/AIDataAgent)**
   (Based on a Tutorial in Youtube: https://youtu.be/KC8HT0eWSGk?si=1aK0aPtpqBiu1fYL)  
   An AI-powered assistant for data analysis in Python. Uses *LangChain, OpenAI API, and pandas* to automate insights and workflows.
