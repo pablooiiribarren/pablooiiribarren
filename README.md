@@ -4,6 +4,17 @@ I´m passionate about building solutions that connect **practical AI**, **web de
 
 ---
 
+## 🎓 Certifications
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cc92e8b7-7168-4599-ac7a-d72f8d656d67" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+Currently studying:
+
+☁️ AWS Cloud Practitioner
+
+🤖 AI & Data Science Master’s Degree (UNIR)
+
+---
+
 ## 🚀 Featured Projects
 
 - **[Mi Dinero Joven](https://github.com/pablooiiribarren/MiDineroJoven)**
