@@ -5,7 +5,7 @@ I´m passionate about building solutions that connect **practical AI**, **web de
 ---
 
 ## 🎓 Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cc92e8b7-7168-4599-ac7a-d72f8d656d67" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<p align="left"> <a href="(https://www.credly.com/badges/cc92e8b7-7168-4599-ac7a-d72f8d656d67/public_url)"> <img src="URL_IMAGEN_BADGE_IBM" height="120"/> </a> </p>
 
 Currently studying:
 
