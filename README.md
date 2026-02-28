@@ -5,7 +5,11 @@ I´m passionate about building solutions that connect **practical AI**, **web de
 ---
 
 ## 🎓 Certifications
-<p align="left"> <a href="(https://www.credly.com/badges/cc92e8b7-7168-4599-ac7a-d72f8d656d67/public_url)"> <img src="URL_IMAGEN_BADGE_IBM" height="120"/> </a> </p>
+<p align="left">
+  <a href="https://www.credly.com/badges/cc92e8b7-7168-4599-ac7a-d72f8d656d67/public_url">
+    <img src="IMG_7908.png" height="120"/>
+  </a>
+</p>
 
 Currently studying:
 
