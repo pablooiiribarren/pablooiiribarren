@@ -13,8 +13,6 @@ I´m passionate about building solutions that connect **practical AI**, **web de
 
 Currently studying:
 
-☁️ AWS Cloud Practitioner
-
 🤖 AI & Data Science Master’s Degree (UNIR)
 
 ---
