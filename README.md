@@ -26,6 +26,11 @@ I´m a student of **Artificial Intelligence and Data Science** at UNIR, with a t
   (Ridge, Random Forest, Gradient Boosting) and an interactive Streamlit dashboard.  
   🔗 [Live demo](https://data-science-job-market-spain-pablooiiribarren.streamlit.app/)
 
+- **[Monitoring Scripts Lab](https://github.com/pablooiiribarren/monitoring-scripts-lab)**
+  A lightweight Linux monitoring lab showcasing automation and scripting skills.
+  Python and Bash scripts to check system services, CPU, memory and disk usage —
+  with configurable thresholds, professional logging and a simple alerting system.  
+
 ---
 
 ## 🧠 Areas of Interest
