@@ -48,7 +48,6 @@ I enjoy building things from scratch — pipelines, dashboards, apps — and und
 
 ---
 
-
 ## 🌐 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pablo-iribarren-muru-93b547269)  
