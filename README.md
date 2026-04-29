@@ -1,7 +1,6 @@
 # 👋 Hi, I´m Pablo Iribarren
 I´m a student of **Artificial Intelligence and Data Science** at UNIR, with a technical background in **Networked Computer Systems Administration (ASIR)**.
-I´m passionate about building solutions that connect **practical AI**, **web development** and **automation**.
-
+I enjoy building things from scratch — pipelines, dashboards, apps — and understanding how data works from the infrastructure layer up.
 ---
 
 ## 🎓 Certifications
@@ -11,78 +10,49 @@ I´m passionate about building solutions that connect **practical AI**, **web de
   </a>
 </p>
 
-Currently studying:
-
-🤖 AI & Data Science Master’s Degree (UNIR)
-
 ---
 
 ## 🚀 Featured Projects
 
-- **[Mi Dinero Joven](https://github.com/pablooiiribarren/MiDineroJoven)**
-  (In process)  
-  A web app for young people to manage their personal finances. Built with *HTML, TailwindCSS, and JavaScript*.  
-  Designed to raise awareness about spending, saving, and money habits.
+- **[Irish Property Price Register — SQL Analysis](https://github.com/pablooiiribarren/irish-ppr-sql-analysis)**
+  End-to-end data pipeline built on Ireland's official residential property 
+  price dataset. Python (pandas, SQLAlchemy) for ingestion, MySQL/MariaDB 
+  for all analytical work, and Plotly for visualization. 
+  Built to demonstrate practical SQL skills on real-world data.
 
-- **[Análisis de Mercado Laboral](https://github.com/pablooiiribarren/data-science-job-market-spain)**
-  Análisis del mercado laboral de Data Science en España, combinando datos reales, visualizaciones interactivas
-  y un modelo predictivo de salarios en un dashboard profesional hecho con Python y Streamlit  
-
-- **[AI Data Agent](https://github.com/pablooiiribarren/AIDataAgent)**
-  (Based on a Tutorial in Youtube: https://youtu.be/KC8HT0eWSGk?si=1aK0aPtpqBiu1fYL)  
-  An AI-powered assistant for data analysis in Python. Uses *LangChain, OpenAI API, and pandas* to automate insights and workflows.
-
-- **[ML in Python](https://github.com/pablooiiribarren/ML-in-Python)**
-  (Based on a Udemy course)  
-  A collection of mini *Machine Learning* projects (regression, clustering, NLP).  
-  Showcases my progress and hands-on practice with data-driven models.
-
-- **[Docker Containers](https://github.com/pablooiiribarren/Contenedores-Docker)**
-  (ASIR)  
-  Exercises and deployments using *Docker* and *Docker Compose*.  
-  Demonstrates my understanding of containerization and DevOps fundamentals.
-
-- **[UNIR Projects]**
-- **[Sintaxis Python](https://github.com/pablooiiribarren/UNIR-Trabajo-1-Sintaxis-Python)**
-- **[Programación orientada a Objetos](https://github.com/pablooiiribarren/UNIR-Trabajo-2-Python-Programacion-Orientada-a-Objetos)**
-- **[Analisis de datos (Numpy y Pandas)](https://github.com/pablooiiribarren/UNIR-Trabajo-3-Analisis-de-datos-con-Numpy-y-Pandas)**
-- **[Visualización de datos (Matplotlib y Seaborn)](https://github.com/pablooiiribarren/UNIR-Trabajo-4-Visualizacion-de-datos-con-Matplotlib-y-Seaborn)**
--    
-  A set of projects developed during my studies at UNIR, focusing on *AI and data applications*.
+- **[Data Science Job Market Spain](https://github.com/pablooiiribarren/data-science-job-market-spain)**
+  Full pipeline analyzing 2,000+ real job listings in Data Science, AI and ML 
+  across Spain, scraped from the Adzuna API. Covers EDA, salary prediction 
+  (Ridge, Random Forest, Gradient Boosting) and an interactive Streamlit dashboard.  
+  🔗 [Live demo](https://data-science-job-market-spain-pablooiiribarren.streamlit.app/)
 
 ---
 
 ## 🧠 Areas of Interest
 
-- Applied Artificial Intelligence  
-- Data Science and Automation  
-- AI-driven UX and product design  
+- Data Analysis and Business Intelligence
+- Applied Artificial Intelligence and ML
+- Data Engineering and pipeline design
 - Cloud infrastructure and deployment with Docker / AWS
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, SQL  
-**Tools:** Docker, Git, AWS, Linux  
-**AI & Data:** Pandas, scikit-learn, LangChain, OpenAI API  
-**Frontend:** TailwindCSS, HTML
+**Languages:** Python, SQL, JavaScript  
+**Data:** pandas, NumPy, scikit-learn, SQLAlchemy  
+**Databases:** MySQL / MariaDB  
+**Visualization:** Plotly, Streamlit, Matplotlib, Seaborn  
+**Tools:** Docker, Git, Linux, AWS  
+**AI:** LangChain, OpenAI API  
 
 ---
 
-## 📈 Currently Working On
-
-- Master’s Degree in **Artificial Intelligence and Data Science (UNIR)**  
-- Building practical projects around AI and automation  
-- Next challenge: *Developing an intelligent app powered by Generative AI*
-
----
 
 ## 🌐 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pablo-iribarren-muru-93b547269)  
-- ✉️ [Email me](mailto:pabloiribarren2003@gmail.com) 
-- 📸 [Instagram](https://instagram.com/pablooiiribarren)
+- ✉️ [Email me](mailto:p11iribarren@gmail.com) 
   
 ---
 
@@ -97,7 +67,5 @@ Currently studying:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pablooiiribarren&icon=0&color=0)](https://visitcount.itsvg.in)
-
-*"Always learning, always building — exploring how AI can make technology more human."*
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
