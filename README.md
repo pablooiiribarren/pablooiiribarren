@@ -1,4 +1,5 @@
 # 👋 Hi, I´m Pablo Iribarren
+
 I´m a student of **Artificial Intelligence and Data Science** at UNIR, with a technical background in **Networked Computer Systems Administration (ASIR)**.
 I enjoy building things from scratch — pipelines, dashboards, apps — and understanding how data works from the infrastructure layer up.
 ---
