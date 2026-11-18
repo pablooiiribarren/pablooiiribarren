@@ -1,6 +1,7 @@
-# 👋 Hi, I´m Pablo Iribarren
+# 👋 Hi, I'm Pablo Iribarren
 
-I´m a student of **Artificial Intelligence and Data Science** at UNIR, with a technical background in **Networked Computer Systems Administration (ASIR)**. I enjoy building things from scratch — pipelines, dashboards, apps — and understanding how data works from the infrastructure layer up.
+Networked Computer Systems Administration technician (ASIR) with training in **Artificial Intelligence and Data Science** (UNIR). I enjoy building things from scratch — pipelines, dashboards, apps — and understanding how data works from the infrastructure layer up.
+
 ---
 
 ## 🎓 Certifications
@@ -13,6 +14,10 @@ I´m a student of **Artificial Intelligence and Data Science** at UNIR, with a t
 ---
 
 ## 🚀 Featured Projects
+- **[Madrid Rental Price Prediction — MLOps on AWS](https://github.com/pablooiiribarren/madrid-rental-price-mlops)**
+  End-to-end MLOps pipeline on AWS SageMaker: PySpark ETL in AWS Glue, S3 data lake,
+  Bayesian hyperparameter tuning (R² from 0.719 to 0.787), bias auditing with
+  SageMaker Clarify, real-time inference endpoint and monitoring with Model Monitor.
 
 - **[Irish Property Price Register — SQL Analysis](https://github.com/pablooiiribarren/irish-ppr-sql-analysis)**
   End-to-end data pipeline built on Ireland's official residential property 
@@ -44,12 +49,13 @@ I´m a student of **Artificial Intelligence and Data Science** at UNIR, with a t
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, SQL, JavaScript  
-**Data:** pandas, NumPy, scikit-learn, SQLAlchemy  
+**Languages:** Python, SQL, Bash  
+**Data analysis:** pandas, NumPy, SQLAlchemy  
+**Machine Learning:** scikit-learn, Keras / TensorFlow, PyTorch, Hugging Face Transformers  
+**Big Data & Cloud:** PySpark, AWS (S3, Glue, SageMaker)  
 **Databases:** MySQL / MariaDB  
 **Visualization:** Plotly, Streamlit, Matplotlib, Seaborn  
-**Tools:** Docker, Git, Linux, AWS  
-**AI:** LangChain, OpenAI API  
+**Systems & Tools:** Linux, Windows Server, Docker, Git
 
 ---
 
