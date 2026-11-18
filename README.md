@@ -55,7 +55,7 @@ I´m a student of **Artificial Intelligence and Data Science** at UNIR, with a t
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/pablo-iribarren-muru-93b547269)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pablo-iribarren-muru)  
 - ✉️ [Email me](mailto:p11iribarren@gmail.com) 
   
 ---
